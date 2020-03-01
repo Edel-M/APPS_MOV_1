@@ -1,0 +1,2 @@
+rootProject.name='CONTROL_DE_ROTACION_2'
+include ':app'
